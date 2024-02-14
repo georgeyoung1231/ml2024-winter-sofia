@@ -15,3 +15,14 @@ For question 2 - separate the module and main func
 ```
 python module5_call.py
 ```
+
+#### module 6
+Install required module (numpy)
+```
+pip install -r requirements.txt 
+```
+Then run
+
+```
+python module6_knn-regr.py
+``` 
