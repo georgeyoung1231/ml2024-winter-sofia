@@ -26,3 +26,14 @@ Then run
 ```
 python module6_knn-regr.py
 ``` 
+
+#### module 7
+Install required module (numpy,scikit-learn)
+```
+pip install -r requirements.txt 
+```
+Then run
+
+```
+python module7_knn-regr-scikit.py
+``` 
